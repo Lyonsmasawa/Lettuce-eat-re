@@ -245,3 +245,16 @@ span {
   padding: 10px 40px 10px 40px;
 }
 
+.cardtext {
+  padding: 0px 0px 0px 30px;
+  font-size: 20px;
+}
+
+.image1 {
+  background-image: url(img/image4.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 282px;
+  width: 282px;
+}
