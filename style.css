@@ -102,3 +102,129 @@ a {
   color: #f19201;
 }
 
+.pagetext {
+  font-size: 20px;
+  font-style: italic;
+  line-height: 34px;
+  font-weight: medium;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  column-gap: 30px;
+  text-align: center;
+  justify-content: space-evenly;
+}
+
+.column {
+  margin-top: 40px;
+  background-color: white;
+  padding: 30px 30px 60px 30px;
+  align-items: center;
+}
+
+.numbers {
+  background-color: #f19201;
+  color: white;
+  font-size: 30px;
+  font-weight: 800;
+  border-radius: 50%;
+  padding: 21px 30px;
+  width: fit-content;
+  margin: 0px 40% 30px 40%;
+  align-items: center;
+
+}
+
+.writingtitle {
+  font-size: 24px;
+}
+
+.writing {
+  font-size: 22px;
+}
+
+.reviews {
+  display: flex;
+  text-align: center;
+}
+
+.reviewtext {
+  background-color: black;
+  color: white;
+  width: 50%;
+  height: 750px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.reviewstitle {
+  font-size: 70px;
+  font-weight: 500;
+}
+
+span {
+  text-decoration-line: underline;
+  text-underline-offset: 30px;
+  text-decoration-thickness: 3.5px;
+}
+
+.organic {
+  font-size: 36px;
+  padding: 20px;
+}
+
+.story {
+  font-size: 20px;
+  padding: 20px;
+}
+
+.name {
+  font-size: 24px;
+  padding: 20px;
+}
+
+.imageside {
+  width: 50%;
+  height: 750px;
+  background-image: url(img/image1.png);
+  background-size: cover;
+}
+
+.menu {
+  display: flex;
+  padding: 100px 10px 80px 10px;
+  flex-direction: column;
+  background-color: rgb(227, 227, 227);
+}
+
+.textcent {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.cards {
+  display: flex;
+  padding: 30px 50px;
+  align-items: center;
+  justify-content: center;
+  column-gap: 70px;
+  row-gap: 40px;
+}
+
+.cardcontent {
+  display: flex;
+  background-color: white;
+  padding: 20px 30px;
+}
+
+.cash {
+  color: #f19201;
+  font-weight: 900;
+  font-size: 26px;
+}
+
