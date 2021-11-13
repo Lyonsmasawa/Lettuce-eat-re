@@ -258,3 +258,31 @@ span {
   height: 282px;
   width: 282px;
 }
+
+.image2 {
+  background-image: url(img/iamge5.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 282px;
+  width: 282px;
+}
+
+.image3 {
+  background-image: url(img/image6.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 282px;
+  width: 282px;
+}
+
+.image4 {
+  background-image: url(img/image7.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 282px;
+  width: 282px;
+}
+
