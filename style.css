@@ -32,3 +32,73 @@ body {
 .logo {
   display: flex;
   align-items: center;
+}
+
+.moringa1 {
+  padding: 10px;
+  font-size: 24px;
+  color: #f19201;
+  font-weight: 900;
+}
+
+.navbar {
+  display: flex;
+  color: white;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 22px;
+  justify-content: space-around;
+}
+
+.nav .moringa {
+  padding: 15px 26px;
+  text-align: center;
+  font-size: 24px;
+  color: white;
+  font-weight: 900;
+  background-color: #f19201;
+  border: none;
+  margin-left: 60px;
+}
+
+li {
+  list-style: none;
+  padding: 0px 30px;
+}
+
+a {
+  color: #f19201;
+  text-decoration: none;
+}
+
+.order {
+  color: white;
+  font-size: 58px;
+  font-weight: 900;
+  padding: 110px 4%;
+}
+
+.ordernow {
+  font-size: 24px;
+  color: white;
+  font-weight: bolder;
+  padding: 20px 50px;
+  margin-left: 20px;
+  background-color: #f19201;
+  border: none;
+}
+
+.services {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: rgb(227, 227, 227);
+  padding: 50px 10% 100px 10%;
+}
+
+.pagetitle {
+  font-size: 36px;
+  color: #f19201;
+}
+
