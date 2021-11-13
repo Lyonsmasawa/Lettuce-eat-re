@@ -286,3 +286,28 @@ span {
   width: 282px;
 }
 
+.book {
+  text-align: center;
+  background-image: url(img/image8.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+.bookmoringa {
+  font-size: 34px;
+  padding-top: 130px;
+  font-weight: lighter;
+  margin: 0px;
+}
+
+.booknow {
+  color: white;
+  background-color: transparent;
+  font-size: 22px;
+  padding: 12px 65px;
+  font-weight: bolder;
+  border-color: white;
+  margin: 45px 0px 120px 0px;
+  border-width: 3px;
+}
